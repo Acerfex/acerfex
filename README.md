@@ -18,36 +18,11 @@
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:deine.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</div>
+  <br /><br /><br />
 
-<br />
-
-<!-- 4. Tech Stack Icons -->
-<div align="center">
+  <!-- 4. Tech Stack (HTML, CSS, JS, Python) -->
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,docker,vscode&perline=5" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="Tech Stack" />
   </p>
-</div>
 
-<br />
-
-<!-- 5. GitHub Statistiken -->
-<div align="center">
-  <a href="https://github.com/Acerfex">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Acerfex&show_icons=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a&hide_border=true" />
-  </a>
-  <a href="https://github.com/Acerfex">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acerfex&layout=compact&theme=tokyonight&title_color=38BDF8&text_color=ffffff&bg_color=0f172a&hide_border=true&hide=html,css" />
-  </a>
-</div>
-
-<br />
-
-<!-- 6. Commit Streak & Profilaufrufe -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acerfex&theme=tokyonight&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&hide_border=true" alt="Acerfex Streak" />
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=Acerfex&color=38BDF8&style=flat-square" alt="Profilaufrufe" />
 </div>
