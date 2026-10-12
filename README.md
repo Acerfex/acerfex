@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/Acerfex">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=38BDF8&center=true&vcenter=true&width=435&lines=Hi+%F0%9F%91%8B;I%27m+Acerfex+%F0%9F%8D%81;Welcome+to+my+profile!+%E2%99%A5%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&startDelay=0&color=38BDF8&center=true&vcenter=true&width=435&lines=Hi+%F0%9F%91%8B;I%27m+Acerfex+%F0%9F%8D%81;Welcome+to+my+profile!+%E2%99%A5%EF%B8%8F" alt="Typing SVG" />
   </a>
 
   <br />
