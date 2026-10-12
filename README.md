@@ -12,7 +12,7 @@
 
   <br /><br />
 
-  <!-- 3. Coole Social Badges -->
+  <!-- 3. Social Badges -->
   <a href="https://github.com/Acerfex"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://instagram.com/DEIN_INSTAGRAM_NAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -31,7 +31,7 @@
 
 <br />
 
-<!-- 5. GitHub Statistiken im Passenden Theme -->
+<!-- 5. GitHub Statistiken -->
 <div align="center">
   <a href="https://github.com/Acerfex">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Acerfex&show_icons=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a&hide_border=true" />
@@ -43,7 +43,7 @@
 
 <br />
 
-<!-- 6. Commit Streak & Profile Views -->
+<!-- 6. Commit Streak & Profilaufrufe -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acerfex&theme=tokyonight&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&hide_border=true" alt="Acerfex Streak" />
 
