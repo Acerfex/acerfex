@@ -1,19 +1,19 @@
 <div align="center">
 
+  <!-- 1. Header Banner oben -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:030712&height=200&section=header&text=Acerfex&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+  <br />
+
+  <!-- 2. Schreibmaschinen-Effekt direkt darunter -->
   <a href="https://github.com/Acerfex">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&startDelay=0&color=38BDF8&center=true&vcenter=true&width=435&lines=Hi+%F0%9F%91%8B;I%27m+Acerfex+%F0%9F%8D%81;Welcome+to+my+profile!+%E2%99%A5%EF%B8%8F" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
+  <!-- 3. Social Badges -->
   <a href="https://github.com/Acerfex"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
-
-<br />
-
-<!-- Terminal Rahmen Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:030712&height=200&section=header&text=Acerfex&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
