@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 1. Header Banner (Funktionierender Direktlink, unklickbar) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:030712&height=220&section=header&text=Acerfex&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- 1. Header Banner (Eigene SVG aus Repository) -->
+  <img src="https://raw.githubusercontent.com/Acerfex/acerfex/457bc096dcb57df8192473deb2cd4cbf6534b859/687474%7E1.SVG" width="100%" alt="Header Banner" />
 
   <br />
 
