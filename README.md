@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="javascript:void(0)" style="cursor: default; pointer-events: none;">
+  <a href="#top">
     <img src="https://raw.githubusercontent.com/Acerfex/acerfex/dbec71bc00d020ef93eb0ef93b97b604af6ee2ae/assets/banner.SVG" width="100%" alt="Header Banner" />
   </a>
 
@@ -19,7 +19,7 @@
 
   <br /><br /><br />
 
-  <a href="javascript:void(0)" style="cursor: default; pointer-events: none;">
+  <a href="#top">
     <img src="https://raw.githubusercontent.com/Acerfex/acerfex/dbec71bc00d020ef93eb0ef93b97b604af6ee2ae/assets/languages.svg" alt="Languages" />
   </a>
 
