@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 1. Header Banner (Nicht klickbar über Camo-Link) -->
-  <img src="https://camo.githubusercontent.com/d1cd748af362a11e0b42842787422e08885b6984f06f0058fde32ce7170a02f0/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6f6c6f723d303a3338424446382c3130303a303330373132266865696768743d3232302673656374696f6e3d68656164657226746578743d4163657266657826666f6e7453697a653d353226666f6e74436f6c6f723d66666666666626616e696d6174696f6e3d66616465496e" width="100%" style="pointer-events: none;" alt="Banner" />
+  <!-- 1. Header Banner (Funktionierender Direktlink, unklickbar) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:030712&height=220&section=header&text=Acerfex&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br />
 
